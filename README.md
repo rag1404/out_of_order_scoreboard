@@ -1,6 +1,7 @@
 # out_of_order_scoreboard
-out of order transactions checking 
-[systemverilog]
+
+// out of order transactions checking 
+
 // We have two components comp_a,comp_b sending transactions to comp_c
 
 // comp_a sends in order transactions to comp_c
